@@ -75,24 +75,3 @@ it finds an error in the file
 an error occured
 If you can’t malloc anymore, print the error message Error: malloc failed, followed by a new line, and exit with status EXIT_FAILURE.
 You have to use malloc and free and are not allowed to use any other function from man malloc (realloc, calloc, …)
-
-
-
-
-
-
- Photo | Name | Email
- -----  | ---- | -----
-![Kenneth](https://i.imgur.com/F9B4o91.jpg)| Kenneth Cortes | 739@holbertonschool.com
-![Rodrigo](https://i.imgur.com/C2LoErX.jpg)| Rodrigo Cruz | 754@holbertonschool.com
----
-
-
-#
-> SPECIAL THANKS
-> To all our peers, mentors, and staff from Holberton School in San Francisco, New Heaven and Bogota.
-> Every day is a journey for new discoveries, a route that you walk alone but do not feel that way, because
-without your time, help and dedication to try to explain those issues that we do not understand, none of
-this would have been possible.
-
-![logo](https://i.imgur.com/9ONYhd0.png)
